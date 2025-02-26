@@ -2,7 +2,7 @@
 
 A Visual Studio Code theme inspired by [shadcn/ui](https://ui.shadcn.com/) with vivid, accessible colors to enhance your coding experience.
 
-![Theme Preview](theme-preview.png)
+![Theme Preview](https://github.com/Zfinix/shadcn-vivid-theme/blob/main/theme-preview.png?raw=true)
 
 ## Features
 
