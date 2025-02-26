@@ -2,7 +2,7 @@
   "name": "shadcn-vivid-theme",
   "displayName": "Shadcn Vivid Theme",
   "description": "A VS Code theme inspired by shadcn/ui with vivid, accessible colors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "zfinix",
   "author": {
     "name": "Chiziaruhoma Ogbonda"
