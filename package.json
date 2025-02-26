@@ -1,0 +1,41 @@
+{
+  "name": "shadcn-vivid-theme",
+  "displayName": "Shadcn Vivid Theme",
+  "description": "A VS Code theme inspired by shadcn/ui with vivid, accessible colors",
+  "version": "0.1.0",
+  "publisher": "zfinix",
+  "author": {
+    "name": "Chiziaruhoma Ogbonda"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "shadcn",
+    "vivid",
+    "accessible"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zfinix/shadcn-vivid-theme"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#09090b",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shadcn Vivid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shadcn-vivid-color-theme.json"
+      }
+    ]
+  }
+}
