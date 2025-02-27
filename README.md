@@ -24,7 +24,7 @@ A Visual Studio Code theme inspired by [shadcn/ui](https://ui.shadcn.com/) with 
 
 ### Manual Installation
 
-1. Download the latest release from the [GitHub repository](https://github.com/yourusername/shadcn-vivid-theme)
+1. Download the latest release from the [GitHub repository](https://github.com/Zfinix/shadcn-vivid-theme)
 2. Unzip the package
 3. Copy the folder to your VS Code extensions directory:
    - **Windows**: `%USERPROFILE%\.vscode\extensions`
@@ -56,7 +56,7 @@ For the best experience, we recommend using these VS Code settings:
 
 ## Feedback and Contributions
 
-If you have any suggestions, issues, or would like to contribute to this theme, please visit the [GitHub repository](https://github.com/yourusername/shadcn-vivid-theme).
+If you have any suggestions, issues, or would like to contribute to this theme, please visit the [GitHub repository](https://github.com/Zfinix/shadcn-vivid-theme).
 
 ## License
 
